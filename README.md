@@ -197,11 +197,11 @@ Seeking opportunities to contribute my skills in UI/UX Design, Frontend Developm
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [jaisonkumar.001@gmail.com](mailto:your-email@example.com)
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: linkedin.com/in/jaison-kumar-j
 
-🌐 Portfolio: https://your-portfolio.com
+🌐 Portfolio: [https://your-portfolio.com](https://sites.google.com/view/jaison-s---portfolio?usp=sharing)
 
 ---
 
