@@ -1,6 +1,12 @@
 # 🌌 Welcome to My Universe  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FFFF&width=800&lines=👋+Hi,+I'm+JAISON+KUMAR+J;💻+Full-Stack+Developer;🚀+AI+and+ML+Explorer;🎨+Portfolio+and+Resume+Builder;🔥+Code,+Create,+Innovate...)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Developer Life" />
+</p>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FFFF&width=800&lines=👋+Hi,+I'm+JAISON+KUMAR+J🔥+Code,+Create,+Innovate...)
 
 ---
 
@@ -20,9 +26,8 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
-
-![Snake animation](https://github.com/JAISON-J-01178/JAISON-J-01178/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contributions
+![Snake animation](https://github.com/JAISON-J-01178/JAISON-J-01178/blob/main/dist/snake.svg)
 
 ---
 
@@ -35,12 +40,6 @@
 
 ---
 
-## 🎬 Fun Animated GIFs  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Animation" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Developer Life" />
-</p>
 
 ---
 
