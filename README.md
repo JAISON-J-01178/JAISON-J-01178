@@ -10,19 +10,13 @@
 
 ---
 
-## 🎇 Animated GitHub Stats  
+## 🎇GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAISON-J-01178&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAISON-J-01178&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAISON-J-01178&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -37,6 +31,10 @@
 ![GitHub Followers](https://img.shields.io/github/followers/JAISON-J-01178?style=for-the-badge&color=blue)  
 ![GitHub Stars](https://img.shields.io/github/stars/JAISON-J-01178?style=for-the-badge&color=yellow)  
 ![Repos](https://img.shields.io/badge/Public%20Repos-🔥-orange?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge)
+
+
+
 
 ---
 
