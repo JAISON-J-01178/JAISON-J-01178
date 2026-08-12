@@ -1,8 +1,4 @@
-<div align="center">
-  <h1>J A I S O N &nbsp; K U M A R &nbsp; J</h1>
-  <p><code>CREATOR / BUILDER</code></p>
-  <p><em>Turning ideas into digital experiences.</em></p>
-</div>
+
 
 <div align="center">
   <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/workflow?username=JAISON-J-01178&amp;theme=editorial" alt="Creator Workflow: Idea, Build, Connect, Deploy, Improve" width="100%" />
