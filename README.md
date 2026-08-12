@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/activity?username=JAISON-J-01178&theme=editorial" alt="Live Activity Signal" width="88%" />
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/activity?username=JAISON-J-01178&theme=editorial" alt="Live Work Signal" width="88%" />
 </div>
 
 
@@ -22,43 +22,47 @@
 
 ---
 
-## ABOUT
-
-
-> I turn ideas into digital experiences, products and things worth exploring.
-
-
----
-
-## COMMIT WAVEFORM & RHYTHM
-
-
 <div align="center">
-  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/commits?username=JAISON-J-01178&theme=editorial" alt="Commit Waveform" width="90%" />
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/commits?username=JAISON-J-01178&theme=editorial" alt="Commit Waveform" width="48%" />
+
+  &nbsp;
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/contributions?username=JAISON-J-01178&theme=editorial" alt="Contribution Field" width="48%" />
+
 </div>
 
 
-
----
-
-## ORBITAL LANGUAGE SPECTRUM
-
-
 <div align="center">
-  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/languages?username=JAISON-J-01178&theme=editorial" alt="Orbital Language Spectrum" width="90%" />
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/languages?username=JAISON-J-01178&theme=editorial" alt="Orbital Language Spectrum" width="48%" />
+
+  &nbsp;
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/stats?username=JAISON-J-01178&theme=editorial" alt="Star & Fork Signal" width="48%" />
+
 </div>
 
 
+<div align="center">
 
----
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/constellation?username=JAISON-J-01178&theme=editorial" alt="Project Constellation" width="98%" />
 
-## PROJECT CONSTELLATION
+</div>
 
 
 <div align="center">
-  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/constellation?username=JAISON-J-01178&theme=editorial" alt="Project Constellation" width="90%" />
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/growth?username=JAISON-J-01178&theme=editorial" alt="Repository Growth Curve" width="48%" />
+
+  &nbsp;
+
+  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/profile-pulse?username=JAISON-J-01178&theme=editorial" alt="Diagnostic Profile Signals" width="48%" />
+
 </div>
 
+
+---
 
 ## SELECTED WORK
 
@@ -86,27 +90,6 @@ Public repository project on GitHub.
 <p><sub>`HTML` &nbsp;•&nbsp; ★ 1</sub></p>
 
 🔗 **LIVE EXPERIENCE:** [https://jaisonportfolio.vercel.app](https://jaisonportfolio.vercel.app)
-
-
-
----
-
-## REPOSITORY GROWTH & HISTORY
-
-
-<div align="center">
-  <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/growth?username=JAISON-J-01178&theme=editorial" alt="Repository Growth Curve" width="90%" />
-</div>
-
-
-### **RECENT ACTIVITY STREAM (NOW)**
-
-
-● **[JAISON-J-01178-github-readme-generator](https://github.com/JAISON-J-01178/JAISON-J-01178-github-readme-generator)** &nbsp;—&nbsp; *Updated 8/12/2026*
-
-● **[JAISON-J-01178](https://github.com/JAISON-J-01178/JAISON-J-01178)** &nbsp;—&nbsp; *Updated 8/12/2026*
-
-● **[Society](https://github.com/JAISON-J-01178/Society)** &nbsp;—&nbsp; *Updated 8/9/2026*
 
 
 ---
