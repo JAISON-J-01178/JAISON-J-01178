@@ -17,7 +17,7 @@
 </div>
 
 
-<p align="center"><strong>[GitHub](https://github.com/JAISON-J-01178) &nbsp;•&nbsp; [Portfolio](https://jaisonportfolio.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/jaison-kumar-j) &nbsp;•&nbsp; [Email](mailto:jaisonkumar.001@gmail.com)</strong></p>
+<p align="center"><a href="https://github.com/JAISON-J-01178"><strong>GitHub</strong></a> &nbsp;•&nbsp; <a href="https://jaisonportfolio.vercel.app"><strong>Portfolio</strong></a> &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/jaison-kumar-j"><strong>LinkedIn</strong></a> &nbsp;•&nbsp; <a href="mailto:jaisonkumar.001@gmail.com"><strong>Email</strong></a></p>
 
 
 ---
@@ -49,18 +49,18 @@
 </div>
 
 
-**Ecosystem Skills:** JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; Git & GitHub
-
-
 
 ---
 
-## PROJECT CONSTELLATION & SELECTED WORK
+## PROJECT CONSTELLATION
 
 
 <div align="center">
   <img src="https://jaison-j-01178-github-readme-genera.vercel.app/api/constellation?username=JAISON-J-01178&theme=editorial" alt="Project Constellation" width="90%" />
 </div>
+
+
+## SELECTED WORK
 
 
 ### **01 &nbsp;|&nbsp; [JAISON-J-01178](https://github.com/JAISON-J-01178/JAISON-J-01178)**
@@ -76,7 +76,7 @@ Public repository project on GitHub.
 
 <p><sub>`JavaScript` &nbsp;•&nbsp; ★ 1</sub></p>
 
-🔗 [View Experience](https://gold-studio-nu.vercel.app)
+🔗 **LIVE EXPERIENCE:** [https://gold-studio-nu.vercel.app](https://gold-studio-nu.vercel.app)
 
 
 ### **03 &nbsp;|&nbsp; [portfolio](https://github.com/JAISON-J-01178/portfolio)**
@@ -85,7 +85,7 @@ Public repository project on GitHub.
 
 <p><sub>`HTML` &nbsp;•&nbsp; ★ 1</sub></p>
 
-🔗 [View Experience](https://jaisonportfolio.vercel.app)
+🔗 **LIVE EXPERIENCE:** [https://jaisonportfolio.vercel.app](https://jaisonportfolio.vercel.app)
 
 
 
@@ -99,17 +99,14 @@ Public repository project on GitHub.
 </div>
 
 
-**2024** &nbsp;|&nbsp; **Exploring**
-> Foundational web development, algorithms & interactive layouts.
+### **RECENT ACTIVITY STREAM (NOW)**
 
-**2025** &nbsp;|&nbsp; **Building**
-> Building full-stack React & Flutter applications with modern APIs.
 
-**2026** &nbsp;|&nbsp; **Creating**
-> Architecting scalable web applications, identity studios & developer tools.
+● **[JAISON-J-01178-github-readme-generator](https://github.com/JAISON-J-01178/JAISON-J-01178-github-readme-generator)** &nbsp;—&nbsp; *Updated 8/12/2026*
 
-**NEXT** &nbsp;|&nbsp; **Evolving**
-> Open source leadership, AI integration & global digital experiences.
+● **[JAISON-J-01178](https://github.com/JAISON-J-01178/JAISON-J-01178)** &nbsp;—&nbsp; *Updated 8/12/2026*
+
+● **[Society](https://github.com/JAISON-J-01178/Society)** &nbsp;—&nbsp; *Updated 8/9/2026*
 
 
 ---
@@ -128,29 +125,8 @@ Public repository project on GitHub.
 
 ---
 
-## OPEN SOURCE PHILOSOPHY
+<div align="center">
 
+  <sub>Designed with <a href="https://github.com/JAISON-J-01178/JAISON-J-01178-github-readme-generator"><strong>GitHub Profile Studio</strong></a> — <em>Design your developer identity.</em></sub>
 
-*Crafting clean, accessible, and maintainable software for the developer community.*
-
-
-Software should be simple to understand, delightful to use, and open for collaboration.
-
-
-🔗 [Learn More](https://github.com/JAISON-J-01178)
-
-
-
----
-
-## CONNECT
-
-
-Reach out via email at **[jaisonkumar.001@gmail.com](mailto:jaisonkumar.001@gmail.com)** or connect on LinkedIn.
-
-
-**[GitHub](https://github.com/JAISON-J-01178) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/jaison-kumar-j) &nbsp;•&nbsp; [Portfolio](https://jaisonportfolio.vercel.app)**
-
-
----
-
+</div>
